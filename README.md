@@ -12,9 +12,9 @@
 
 ![typescript_original_logo_icon_146317 (2)](https://user-images.githubusercontent.com/94179186/218311242-a487712c-1b48-42ac-a81d-39269d348379.png)
 ![javascript_original_logo_icon_146455](https://user-images.githubusercontent.com/94179186/218311187-a892c86f-0bef-4c02-847c-4e90ce80b328.png)
-![react_original_logo_icon_146374](https://user-images.githubusercontent.com/94179186/218310486-2dc9d2dd-22cf-491d-a5fb-04a6e7cbe6be.png)
 ![file_type_vue_icon_130078](https://user-images.githubusercontent.com/94179186/218310751-c0b70158-985c-4b37-9faf-9afe61514728.png)
 ![file_type_nuxt_icon_130293](https://user-images.githubusercontent.com/94179186/233848448-c3f9f00b-c8bf-442e-b042-93930cb86d1d.png)
+![react_original_logo_icon_146374](https://user-images.githubusercontent.com/94179186/218310486-2dc9d2dd-22cf-491d-a5fb-04a6e7cbe6be.png)
 
 ![mysql_original_wordmark_logo_icon_146417](https://user-images.githubusercontent.com/94179186/220203503-ab4e94ab-a09a-4a2d-83f3-4e7aa1504105.png)
 ![postgresql_plain_wordmark_logo_icon_146390](https://user-images.githubusercontent.com/94179186/220204474-242599bf-2ede-4994-afbd-391226b54e29.png)
