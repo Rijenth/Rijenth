@@ -11,7 +11,6 @@
 ![csharp_original_logo_icon_146578](https://user-images.githubusercontent.com/94179186/218310791-a4bb1e9b-76b9-4ee4-9371-998eab71c942.png)
 
 ![typescript_original_logo_icon_146317 (2)](https://user-images.githubusercontent.com/94179186/218311242-a487712c-1b48-42ac-a81d-39269d348379.png)
-![javascript_original_logo_icon_146455](https://user-images.githubusercontent.com/94179186/218311187-a892c86f-0bef-4c02-847c-4e90ce80b328.png)
 ![file_type_vue_icon_130078](https://user-images.githubusercontent.com/94179186/218310751-c0b70158-985c-4b37-9faf-9afe61514728.png)
 ![file_type_nuxt_icon_130293](https://user-images.githubusercontent.com/94179186/233848448-c3f9f00b-c8bf-442e-b042-93930cb86d1d.png)
 ![react_original_logo_icon_146374](https://user-images.githubusercontent.com/94179186/218310486-2dc9d2dd-22cf-491d-a5fb-04a6e7cbe6be.png)
