@@ -4,3 +4,7 @@
     <img src="https://raw.githubusercontent.com/Rijenth/Rijenth/main/assets/header-light.svg" alt="Rijenth — développeur full-stack. PHP, Laravel, Python, Go, TypeScript, Vue, Nuxt, React, PostgreSQL, Redis, Docker.">
   </picture>
 </p>
+
+<p align="center">
+  <a href="https://fr.linkedin.com/in/rijentha">LinkedIn</a>
+</p>
